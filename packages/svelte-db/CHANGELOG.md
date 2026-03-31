@@ -1,5 +1,12 @@
 # @tanstack/svelte-db
 
+## 0.1.79
+
+### Patch Changes
+
+- Updated dependencies [[`c314c36`](https://github.com/TanStack/db/commit/c314c36b8bd02f8be86865c13f31f817ce21dc66)]:
+  - @tanstack/db@0.6.2
+
 ## 0.1.78
 
 ### Patch Changes

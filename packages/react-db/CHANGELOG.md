@@ -1,5 +1,14 @@
 # @tanstack/react-db
 
+## 0.1.80
+
+### Patch Changes
+
+- Fix stale status mismatch in useLiveSuspenseQuery causing infinite suspense fallback. ([#1427](https://github.com/TanStack/db/pull/1427))
+
+- Updated dependencies [[`c314c36`](https://github.com/TanStack/db/commit/c314c36b8bd02f8be86865c13f31f817ce21dc66)]:
+  - @tanstack/db@0.6.2
+
 ## 0.1.79
 
 ### Patch Changes

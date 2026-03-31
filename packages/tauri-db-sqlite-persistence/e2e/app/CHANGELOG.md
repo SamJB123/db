@@ -1,5 +1,13 @@
 # @tanstack/tauri-db-sqlite-persistence-e2e-app
 
+## 0.0.6
+
+### Patch Changes
+
+- Updated dependencies [[`c314c36`](https://github.com/TanStack/db/commit/c314c36b8bd02f8be86865c13f31f817ce21dc66)]:
+  - @tanstack/db@0.6.2
+  - @tanstack/tauri-db-sqlite-persistence@0.1.6
+
 ## 0.0.5
 
 ### Patch Changes

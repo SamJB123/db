@@ -1,5 +1,12 @@
 # @tanstack/query-db-collection
 
+## 1.0.33
+
+### Patch Changes
+
+- Updated dependencies [[`c314c36`](https://github.com/TanStack/db/commit/c314c36b8bd02f8be86865c13f31f817ce21dc66)]:
+  - @tanstack/db@0.6.2
+
 ## 1.0.32
 
 ### Patch Changes
